@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 160px;
+    position: absolute;
+    left: 380px;
+    top: 100px;
+    color: red;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 90px;
+    position: absolute;
+    left: 450px;
+    top: 280px;
+    color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+    0 0 151px #0fa;
+}
+
+.main img {
+    position: absolute;
+    width: 200px;
+    top: 450px;
+    left: 1200px;
+}
+
+.text {
+    font-size: 54px;
+    position: absolute;
+    top: 270px;
+    left: 300px;
+    height: 400px;
+     width: 600px;
+     text-shadow:
+     0 0 7px #fff,
+     0 0 10px #fff,
+     0 0 21px #fff,
+     0 0 42px #0fa,
+     0 0 82px #0fa,
+     0 0 92px #0fa,
+     0 0 102px #0fa,
+     0 0 151px #0fa;
+}
+
+.bro {
+    position: absolute;
+    top: 700px;
+    left: 1130px;
+    font-size: 54px;
+    text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+    0 0 151px #0fa;
+}
+
+.tel {
+    text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+    0 0 151px #0fa;
+    color: blue;
+}
